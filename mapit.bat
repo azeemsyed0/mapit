@@ -1,0 +1,1 @@
+@py.exe "C:\\Users\\Syed Azeem\\Pyscripts\\mapit.py" %*
